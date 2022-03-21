@@ -32,7 +32,7 @@ With those parameters in mind, I subsequently cleaned the data for the remaining
 ## Second Step - Tableau
 I 
 then 
-pulled all the data into tableau and union all 12 months of data into one table and start visualizing them into charts which allows the reader to understand the data pattern. Due to the large amount of data and filesize required of this combined datasets, I could not save my work onto Tableau Public and had to do the story using MS Powerpoint. As such, I will publish all my presentation slides and files in this documentation.
+pulled all the data into tableau and union all 12 months of data into one table and start visualizing them into charts which allows the reader to understand the data pattern. Due to the large amount of data and filesize required of this combined datasets, I could not save my work onto Tableau Public and had to do the story using MS Powerpoint. As such, I will publish all my presentation slides and files in this documentation but I will be unable to upload the tableau file onto GitHub as well due to the 25MB limit.
 
 ## Third Step - Presentation
 ![image](https://user-images.githubusercontent.com/101384168/159224391-f38f47bc-e5d6-4ac4-9fc5-d1ec749d4616.png)
